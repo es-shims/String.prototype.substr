@@ -1,9 +1,9 @@
 'use strict';
 
-var RequireObjectCoercible = require('es-abstract/2021/RequireObjectCoercible');
-var substring = require('es-abstract/2021/substring');
-var ToIntegerOrInfinity = require('es-abstract/2021/ToIntegerOrInfinity');
-var ToString = require('es-abstract/2021/ToString');
+var RequireObjectCoercible = require('es-abstract/2022/RequireObjectCoercible');
+var substring = require('es-abstract/2022/substring');
+var ToIntegerOrInfinity = require('es-abstract/2022/ToIntegerOrInfinity');
+var ToString = require('es-abstract/2022/ToString');
 
 var max = Math.max;
 var min = Math.min;
