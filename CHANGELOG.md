@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/es-shims/String.prototype.substr/compare/v1.0.0...v1.0.1) - 2022-11-07
+
+### Commits
+
+- [Deps] update `es-abstract` [`d96750e`](https://github.com/es-shims/String.prototype.substr/commit/d96750e6939589cf9ef2841b99984d4919e48619)
+- [actions] update rebase action to use reusable workflow [`5150b3c`](https://github.com/es-shims/String.prototype.substr/commit/5150b3cac3e68fd116384bd30abf19159e2ac9d1)
+- [Dev Deps] update `aud`, `tape` [`fbc7567`](https://github.com/es-shims/String.prototype.substr/commit/fbc7567eac2e50c0685f5332de41791ca027d245)
+
 ## v1.0.0 - 2022-05-25
 
 ### Commits
