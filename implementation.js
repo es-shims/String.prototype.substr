@@ -5,8 +5,8 @@ var substring = require('es-abstract/2024/substring');
 var ToIntegerOrInfinity = require('es-abstract/2024/ToIntegerOrInfinity');
 var ToString = require('es-abstract/2024/ToString');
 
-var max = Math.max;
-var min = Math.min;
+var max = require('math-intrinsics/max');
+var min = require('math-intrinsics/min');
 
 module.exports = function substr(start, length) {
 	var O = RequireObjectCoercible(this); // step 1
