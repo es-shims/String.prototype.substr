@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/es-shims/String.prototype.substr/compare/v1.0.3...v1.0.4) - 2024-12-18
+
+### Commits
+
+- [actions] update shared actions [`0636f5a`](https://github.com/es-shims/String.prototype.substr/commit/0636f5a18be2d3a572b0c6074fd2948c2559a80a)
+- [Tests] remove unused ESM tests [`74bd1a8`](https://github.com/es-shims/String.prototype.substr/commit/74bd1a85d122078a4b5dc49a7bc3198d1d375918)
+- [Dev Deps] update `@es-shims/api`, `@ljharb/eslint-config`, `auto-changelog`, `tape` [`ffcb55b`](https://github.com/es-shims/String.prototype.substr/commit/ffcb55ba8771491564224408d4ea9c02286a5017)
+- [Refactor] use `math-intrinsics` directly [`b1edbd4`](https://github.com/es-shims/String.prototype.substr/commit/b1edbd47e17ae3d624bd561c7135fe6395afdeed)
+- [Deps] update `call-bind`, `es-abstract` [`df121aa`](https://github.com/es-shims/String.prototype.substr/commit/df121aa131a6c7423bf0a4d70b2d6312a9058e2f)
+- [Refactor] use `call-bound` directly [`9d48ebd`](https://github.com/es-shims/String.prototype.substr/commit/9d48ebd7d0db66218ef852947fc3480648c589c7)
+- [Tests] replace `aud` with `npm audit` [`56b5430`](https://github.com/es-shims/String.prototype.substr/commit/56b54307ecbdd4eba5e334b2cf314fd89282e42a)
+- [meta] add missing `engines.node` [`bd0e039`](https://github.com/es-shims/String.prototype.substr/commit/bd0e0398608c45f196cf6f4905f28cce8565ef44)
+- [Dev Deps] add missing peer dep [`ee236d3`](https://github.com/es-shims/String.prototype.substr/commit/ee236d300d750671f308fc7e5d8d99dc6a7fa907)
+
 ## [v1.0.3](https://github.com/es-shims/String.prototype.substr/compare/v1.0.2...v1.0.3) - 2024-03-17
 
 ### Commits
